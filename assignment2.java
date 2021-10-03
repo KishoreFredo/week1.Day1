@@ -6,7 +6,7 @@ public class assignment2 {
 	{
 		int i=-20;
 
-  if (i<=0)
+  if (i<0)
 {
 	  System.out.println("The given number has converted to " + -i);
 }
